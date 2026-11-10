@@ -1,0 +1,20 @@
+[
+  {
+    "row_id": "o1",
+    "entity_id": "O1",
+    "region": "east",
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "known_from": "2026-01-01T00:00:00Z",
+    "known_to": null
+  },
+  {
+    "row_id": "o2",
+    "entity_id": "O2",
+    "region": "west",
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "known_from": "2026-01-01T00:00:00Z",
+    "known_to": null
+  }
+]

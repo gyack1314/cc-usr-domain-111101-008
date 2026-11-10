@@ -1,0 +1,20 @@
+[
+  {
+    "row_id": "sw1",
+    "entity_id": "V1",
+    "software": "release-a",
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "known_from": "2026-01-01T00:00:00Z",
+    "known_to": null
+  },
+  {
+    "row_id": "sw2",
+    "entity_id": "V1",
+    "software": "release-b",
+    "valid_from": "2026-11-04T00:00:00Z",
+    "valid_to": null,
+    "known_from": "2026-11-09T00:00:00Z",
+    "known_to": null
+  }
+]

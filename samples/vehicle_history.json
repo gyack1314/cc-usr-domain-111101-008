@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "h1",
+    "entity_id": "V1",
+    "operator": "O1",
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": null,
+    "known_from": "2026-01-01T00:00:00Z",
+    "known_to": "2026-11-08T00:00:00Z"
+  },
+  {
+    "row_id": "h2",
+    "entity_id": "V1",
+    "operator": "O1",
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": "2026-11-01T00:00:00Z",
+    "known_from": "2026-11-08T00:00:00Z",
+    "known_to": null
+  },
+  {
+    "row_id": "h3",
+    "entity_id": "V1",
+    "operator": "O2",
+    "valid_from": "2026-11-01T00:00:00Z",
+    "valid_to": null,
+    "known_from": "2026-11-08T00:00:00Z",
+    "known_to": null
+  }
+]

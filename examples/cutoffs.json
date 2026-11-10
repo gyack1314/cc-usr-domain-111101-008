@@ -1,0 +1,10 @@
+[
+  {
+    "name": "before-correction",
+    "cutoff": "2026-11-07T12:00:00Z"
+  },
+  {
+    "name": "after-correction",
+    "cutoff": "2026-11-10T12:00:00Z"
+  }
+]

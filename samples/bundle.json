@@ -1,0 +1,21 @@
+{
+  "name": "跨城市运营事实的双时间维度关联",
+  "files": [
+    {
+      "path": "facts.json",
+      "key": "fact_id"
+    },
+    {
+      "path": "vehicle_history.json",
+      "key": "row_id"
+    },
+    {
+      "path": "operator_history.json",
+      "key": "row_id"
+    },
+    {
+      "path": "software_history.json",
+      "key": "row_id"
+    }
+  ]
+}
