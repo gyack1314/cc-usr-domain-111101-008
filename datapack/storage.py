@@ -25,6 +25,10 @@ def atomic_write(path,data):
 def save_json(path,value):
     atomic_write(path,canonical(value)+b'\n')
 
+def save_jsonl(path,values):
+    """原子写 JSONL；每行是一个经稳定编码的 JSON 值。"""
+    atomic_write(path,b''.join(canonical(value)+b'\n' for value in values))
+
 def read_json(path):
     def pairs(items):
         out={}

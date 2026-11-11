@@ -3,19 +3,23 @@
   "files": [
     {
       "path": "facts.json",
-      "key": "fact_id"
+      "key": "fact_id",
+      "role": "facts"
     },
     {
       "path": "vehicle_history.json",
-      "key": "row_id"
+      "key": "row_id",
+      "role": "vehicle"
     },
     {
       "path": "operator_history.json",
-      "key": "row_id"
+      "key": "row_id",
+      "role": "operator"
     },
     {
       "path": "software_history.json",
-      "key": "row_id"
+      "key": "row_id",
+      "role": "software"
     }
   ]
 }
